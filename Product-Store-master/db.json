@@ -1,0 +1,98 @@
+{
+  "users": [
+    { "username": "user1", "password": "password1" },
+    { "username": "user2", "password": "password2" }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "author": "Robert C. Martin",
+      "price": 250,
+      "image": "https://books.google.co.in/books/content?id=_i6bDeoCQzsC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U1bApbrEDnCLPcGXJCucXJHOqAmAQ&w=1280",
+      "category": "books",
+      "discription": "Noted software expert Robert C. Martin, presents a revolutionary paradigm with Clean Code: A Handbook of Agile Software Craftsmanship. Martin, who has helped bring agile principles from a practitioner’s point of view to tens of thousands of programmers, has teamed up with his colleagues from Object Mentor to distill their best agile practice of cleaning code “on the fly” into a book that will instill within you the values of software craftsman, and make you a better programmer―but only if you work at it."
+    },
+    {
+      "id": 2,
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "price": 175,
+      "image": "https://books.google.co.in/books/content?id=PXa2bby0oQ0C&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U1ZCXs28suz9AbTksoHXAtvqEsNjQ&w=1280",
+      "category": "books",
+      "discription": "Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book scrapes away these bad features to reveal a subset of JavaScript that's more reliable, readable, and maintainable than the language as a whole-a subset you can use to create truly extensible and efficient code."
+    },
+    {
+      "id": 3,
+      "title": "Python Crash Course",
+      "author": "Eric Matthes",
+      "price": 280,
+      "image": "https://books.google.co.in/books/publisher/content?id=igYvDwAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U0cUNqv8T-AGCmOt7T_8thwQbbE7g&w=1280",
+      "category": "books",
+      "discription": "You’ll start by learning basic programming concepts, such as variables, lists, classes, and loops, and practice writing clean code with exercises for each topic. You’ll also learn how to make your programs interactive and test your code safely before adding it to a project. You’ll put your new knowledge into practice by creating a Space Invaders–inspired arcade game, building a set of data visualizations with Python’s handy libraries, and deploying a simple application online."
+    },
+    {
+      "id": 4,
+      "title": "Eloquent JavaScript: A Modern Introduction to Programming",
+      "author": "Marijn Haverbeke",
+      "price": 100,
+      "image": "https://books.google.co.in/books/publisher/content?id=FSVTDwAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2pB7WWvKNb7hUAz7IcoXQ3vc4yCw&w=1280",
+      "category": "books",
+      "discription": "This is a book about JavaScript, programming, and the wonders of the digital. You can read it online here, or buy your own paperback copy."
+    },
+    {
+      "id": 5,
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+      "price": 150,
+      "image": "https://books.google.co.in/books/content?id=NLngYyWFl_YC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2xZXYYQTRoIhEVsRVT-zlDOH4BnQ&w=1280",
+      "category": "books",
+      "discription": "The second edition of this successful textbook provides an up-to-date introduction both to distributed algorithms and to the theory behind them. The clear presentation makes the book suitable for courses. The two new chapters on sense of direction and failure detectors will provide an entry to these still-developing topics."
+    },
+    {
+      "id": 6,
+      "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+      "price": 350,
+      "image": "https://books.google.co.in/books/content?id=qp1QQDHxuvAC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U3ZwUSAjIPzl3JAuo6jWdNMX-13rg&w=1280",
+      "category": "books",
+      "discription": "Capturing a wealth of experience about the design of object-oriented software, four top-notch designers present a catalog of simple and succinct solutions to commonly occurring design problems. Previously undocumented, these 23 patterns allow designers to create more flexible, elegant, and ultimately reusable designs without having to rediscover the design solutions themselves."
+    },
+    {
+      "id": 7,
+      "title": "The Pragmatic Programmer: Your Journey to Mastery",
+      "author": "Andrew Hunt, David Thomas",
+      "price": 200,
+      "image": "https://books.google.co.in/books/publisher/content?id=LhOlDwAAQBAJ&pg=PA1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U0NgeXMr3ui9sB8gyxhg4hYO_LPnQ&w=1280",
+      "category": "books",
+      "discription": "The technology of mechanized program verification can play a supporting role in many kinds of research projects in computer science, and related tools for formal proof-checking are seeing increasing adoption in mathematics and engineering. This book provides an introduction to the Coq software for writing and checking mathematical proofs. It takes a practical engineering focus throughout, emphasizing techniques that will help users to build, understand, and maintain large Coq developments and minimize the cost of code change over time."
+    },
+    {
+      "id": 8,
+      "title": "Cracking the Coding Interview",
+      "author": "Gayle Laakmann McDowell",
+      "price": 270,
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAb2Vt5Et-CZrajVUU6y9nR5ghRNYVCd3WZNlI_T4J1B5WUgSr",
+      "category": "books",
+      "discription": "I am not a recruiter. I am a software engineer. And as such, I know what it's like to be asked to whip up brilliant algorithms on the spot and then write flawless code on a whiteboard. I've been through this as a candidate and as an interviewer. Cracking the Coding Interview, 6th Edition is here to help you through this process, teaching you what you need to know and enabling you to perform at your very best. I've coached and interviewed hundreds of software engineers. "
+    },
+    {
+      "id": 9,
+      "title": "Introduction to the Theory of Computation",
+      "author": "Michael Sipser",
+      "price": 390,
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTohHTPA6tX0qBNxFz-8YJFCvON-heMRhh57YAGtlM-kxbIwSGp",
+      "category": "books",
+      "discription": "Clearly present even the most complex computational theory topics to your students using Sipser's textbook. This updated edition continues Sipser's approachable style with timely revisions, additional exercises, and more memorable examples in key areas."
+    },
+    {
+      "id": 10,
+      "title": "Learning Python",
+      "author": "Mark Lutz",
+      "price": 140,
+      "image": "https://books.google.co.in/books/publisher/content?id=CfcEAQAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2GtGVctVoAYHmnLfjmFp3kMD2aiQ&w=1280",
+      "category": "books",
+      "discription": "Python has gone to be one of the most popular programming languages in the world, and you will be one of the few people left out if you don't add this knowledge to your arsenal. If you're looking to learn Python, now is an excellent time to do so. But where do you begin?"
+    }
+  ]
+}

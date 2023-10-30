@@ -1,0 +1,24 @@
+[
+  {
+    "cart": [
+      {
+        "title": "JavaScript: The Good Parts",
+        "author": "Douglas Crockford",
+        "price": 175,
+        "image": "https://books.google.co.in/books/content?id=PXa2bby0oQ0C&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U1ZCXs28suz9AbTksoHXAtvqEsNjQ&w=1280",
+        "category": "books",
+        "discription": "Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book scrapes away these bad features to reveal a subset of JavaScript that's more reliable, readable, and maintainable than the language as a whole-a subset you can use to create truly extensible and efficient code.",
+        "id": 2
+      },
+      {
+        "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "author": "Robert C. Martin",
+        "price": 250,
+        "image": "https://books.google.co.in/books/content?id=_i6bDeoCQzsC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U1bApbrEDnCLPcGXJCucXJHOqAmAQ&w=1280",
+        "category": "books",
+        "discription": "Noted software expert Robert C. Martin, presents a revolutionary paradigm with Clean Code: A Handbook of Agile Software Craftsmanship. Martin, who has helped bring agile principles from a practitioner’s point of view to tens of thousands of programmers, has teamed up with his colleagues from Object Mentor to distill their best agile practice of cleaning code “on the fly” into a book that will instill within you the values of software craftsman, and make you a better programmer―but only if you work at it.",
+        "id": 1
+      }
+    ]
+  }
+]
